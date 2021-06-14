@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-//This is controller
+//This is controller for user
 @Controller
 public class ControllerForm {
 
