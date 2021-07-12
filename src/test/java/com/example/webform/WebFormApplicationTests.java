@@ -11,15 +11,5 @@ import static org.assertj.core.api.Assertions.assertThat;
 @SpringBootTest
 class WebFormApplicationTests {
 
-	@Autowired
-	private ControllerForm controller;
-
-	@Test
-	void contextLoads() {
-		assertThat(controller).isNotNull();
-
-
-
-	}
 
 }
