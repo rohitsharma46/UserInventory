@@ -17,7 +17,5 @@ public class WebFormApplication {
 		SpringApplication.run(WebFormApplication.class, args);
 	}
 
-	//Story 1 completed
-	//Story 2 completed
-	//Story 3 completed
+	//Done
 }
